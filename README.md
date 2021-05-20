@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Destini
 
 This project is a challenge of the course IOS & Swift - The Complete IOS App Development Bootcamp
